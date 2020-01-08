@@ -6,7 +6,8 @@ The New School
 
 Spring 2020 / M+W 12-1:40PM / Eugene Lang 65 W.11th (Room 258)
 
-Your professor: [Melody Loveless](http://www.melodyloveless.com/). E-mail me: [melody@example.com](mailto:melody@example.com).
+Your professor: [Melody Loveless](http://www.melodyloveless.com/)</br>
+E-mail me at: [lovelesm@newschool.edu](mailto:lovelesm@newschool.edu).
 
 Office hours: TBA
 
