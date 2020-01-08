@@ -11,7 +11,7 @@ Your professor: [Melody Loveless](http://www.melodyloveless.com/). E-mail me: [m
 Office hours: TBA
 
 ## Syllabus
-[Link to our official class syllabus] (https://docs.google.com/document/d/1fSthNcWG46u6Ly7Ret2jNY1MKdJHXJ3KV9hIydJeRVQ/edit?usp=sharing)
+[Link to our official class syllabus](https://docs.google.com/document/d/1fSthNcWG46u6Ly7Ret2jNY1MKdJHXJ3KV9hIydJeRVQ/edit?usp=sharing)
 
 ## Technologies
 Sonic Pi
