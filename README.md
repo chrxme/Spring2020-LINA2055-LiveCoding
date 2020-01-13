@@ -7,7 +7,7 @@ The New School
 Spring 2020 / M+W 12-1:40PM / Eugene Lang 65 W.11th (Room 258)
 
 Your professor: [Melody Loveless](http://www.melodyloveless.com/)</br>
-E-mail me at: [lovelesm@newschool.edu](mailto:lovelesm@newschool.edu).
+E-mail me at: [lovelesm@newschool.edu](mailto:lovelesm@newschool.edu)
 
 Office hours: TBA
 
@@ -15,5 +15,5 @@ Office hours: TBA
 [Link to our official class syllabus](https://docs.google.com/document/d/1fSthNcWG46u6Ly7Ret2jNY1MKdJHXJ3KV9hIydJeRVQ/edit?usp=sharing)
 
 ## Technologies
-Sonic Pi
-Hydra
+[Sonic Pi](https://sonic-pi.net/)
+[Hydra](https://github.com/ojack/hydra)
