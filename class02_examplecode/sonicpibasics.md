@@ -44,12 +44,12 @@ You can also change a synthezsizer by using the command "with_synth", declaring 
 In the example below, we are changing synthesizers between the first and second note.
 ```
 with_synth :tri do
-play 60 
-sleep 1
+  play 60 
+  sleep 1
 end
 use_synth :sine do
-play 64
-sleep 1
+  play 64
+  sleep 1
 end
 ```
 
@@ -101,8 +101,8 @@ For more information on code structure and syntax, visit <a href="https://sonic-
 In the example below, the bass drum is being played in a "live_loop :one".
 ```
 live_loop :one do
-sample :bd_808
-sleep 1
+  sample :bd_808
+  sleep 1
 end
 ```
 ## Parameters / Effects
@@ -123,10 +123,10 @@ We can say which speaker we want our sound to play out of using pan. We can adju
 In this example, we are saying to play the first note out of the left speaker and then the second sample out of the right twice.
 ```
 2.times do
-play 60, pan: -1
-sleep 1
-sample :bd_fat, pan: 1
-sleep 1
+  play 60, pan: -1
+  sleep 1
+  sample :bd_fat, pan: 1
+  sleep 1
 end
 ```
 ### Attack
