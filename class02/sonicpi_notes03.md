@@ -2,7 +2,7 @@
 
 ## Working with randomness
 
-Working with random input can add variety to your set.
+Working with random input can add variety and interest to your set.
 
 ### rrand
 rrand gives you a random value within a certain range. You'll need to declare the minimum and maximum of your range.
