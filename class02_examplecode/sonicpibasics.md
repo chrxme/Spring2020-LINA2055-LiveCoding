@@ -3,8 +3,9 @@
 ## Notes / Synthesizers
 ### Remember:
 - We can declare any number between 0-127 as the pitch with zero (0) being the lowest pitch and 127 as the highest
+- We can also declare pitch by using traditional note names
 
-### How to play a note
+### How to play a note (using numbers)
 1. Type the command "play"
 2. Hit space
 3. Type a number between 0-127
@@ -12,6 +13,18 @@
 ```
 play 60 
 sleep 1 
+```
+### How to play a note (using note names)
+1. Type the command "play"
+2. Hit space and type ":"
+3. Declare a pitch name (ex. ":C" or ":G")
+4. (optional) Add an octave number (ex. ":C3" or ":G5")
+5. Add sleep ___ below the command to finish the algorithm
+```
+play :C2 
+sleep 1 
+play :G5
+sleep 1
 ```
 
 ### How to play a chord
