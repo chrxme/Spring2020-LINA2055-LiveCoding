@@ -5,7 +5,8 @@
 - We can declare any number between 0-127 as the pitch with zero (0) being the lowest pitch and 127 as the highest
 - We can also declare pitch by using traditional note names
 
-### How to play a note (using numbers)
+### How to play a note 
+#### Using Numbers
 1. Type the command "play"
 2. Hit space
 3. Type a number between 0-127
@@ -14,7 +15,8 @@
 play 60 
 sleep 1 
 ```
-### How to play a note (using note names)
+
+#### Using Note Names
 1. Type the command "play"
 2. Hit space and type ":"
 3. Declare a pitch name (ex. ":C" or ":G")
@@ -28,6 +30,7 @@ sleep 1
 ```
 
 ### How to play a chord
+#### Using Numbers
 Everything before "sleep 1" will play at the same time. This makes a chord.
 ```
 play 60 
@@ -35,6 +38,13 @@ play 64
 play 67
 play 72
 sleep 1
+```
+
+#### Using Note Names
+Note: does not require sleep. See <a href="https://sonic-pi.net/tutorial.html#section-8-2" target="_blank">Section 8.2</a> for more details.
+```
+play_pattern_timed chord(:E3, :m7), 0.25
+
 ```
 
 ### How to change a synthesizer
