@@ -25,7 +25,7 @@ sleep 1
 ```
 
 ### How to change a synthesizer
-You can change a synthesizer by using the command "use_synth" and declaring a synthesizer afterwards
+You can change a synthesizer by using the command "use_synth" and declaring a synthesizer afterwards.
 
 Ex. use_synth :saw, use_synth :sine
 
@@ -39,7 +39,8 @@ play 64
 sleep 1
 ```
 
-You can also change a synthezsizer by using the command "with_synth", declaring a synthesizer, and wrapping the code you'd like to effect
+You can also change a synthezsizer by using the command "with_synth", declaring a synthesizer, and wrapping the code you'd like to effect.</br>
+
 In the example below, we are changing synthesizers between the first and second note.
 ```
 with_synth :tri do
