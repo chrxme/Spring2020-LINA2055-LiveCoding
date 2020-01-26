@@ -119,7 +119,7 @@ live_loop :one do
 end
 ```
 ## Parameters / Effects
-In Sonic Pi, we can change the way a sound is played by adjusting paramaters. These include: amp, pan, attack, rate, release, sustain.
+In Sonic Pi, we can change the way a sound is played by adjusting paramaters. These include: amp, pan, attack, release, and rate.
 
 ### Amp
 Amp is short for amplitude. Amplitude controls the volume. We can change the amplitude for notes and samples.
@@ -166,3 +166,23 @@ In this example, we are telling our synthesizer to take two beats to fade out.
   sleep 2
 end
   ```
+  
+### Rate
+Rate is a parameter that works with samples.
+The default setting for a samples rate to be played at is "1".
+
+In this example, we playing the same sample at different rates.
+```
+4.times do
+  sample :elec_beep, rate: 1
+  sleep 0.5
+end
+4.times do
+  sample :elec_beep, rate: 2
+  sleep 0.25
+end
+2.times do
+  sample :elec_beep, rate: 0.5
+  sleep 0.5
+end
+```
