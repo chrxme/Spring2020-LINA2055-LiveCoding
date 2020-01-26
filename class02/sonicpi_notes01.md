@@ -171,18 +171,27 @@ end
 Rate is a parameter that works with samples.
 The default setting for a samples rate to be played at is "1".
 
-In this example, we playing the same sample at different rates.
+In this example, we are playing the same sample at different rates.
 ```
 4.times do
-  sample :elec_beep, rate: 1
+  sample :elec_beep, rate: 1 # normal rate
   sleep 0.5
 end
 4.times do
-  sample :elec_beep, rate: 2
+  sample :elec_beep, rate: 2 # twice as fast
   sleep 0.25
 end
 2.times do
-  sample :elec_beep, rate: 0.5
+  sample :elec_beep, rate: 0.5 # half the speed
   sleep 0.5
+end
+```
+In this example, we are playing the same sample regularly than backwards at the same speed.
+```
+1.times do
+  sample :ambi_haunted_hum, rate: 1
+  sleep sample_duration :ambi_haunted_hum
+  sample :ambi_haunted_hum, rate: -1
+  sleep sample_duration :ambi_haunted_hum
 end
 ```
