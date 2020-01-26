@@ -165,7 +165,9 @@ In this example, we are telling our synthesizer to take two beats to fade out.
     release: 2 #how long it takes to fades out
   sleep 2
 end
-  ```
+  ```  
+  
+For a more detailed explanation on playing with envelopes, see <a href="https://sonic-pi.net/tutorial.html#section-2-4" target="_blank">https://sonic-pi.net/tutorial.html#section-2-4</a>
   
 ### Rate
 Rate is a parameter that works with samples.
