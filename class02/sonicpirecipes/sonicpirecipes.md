@@ -22,10 +22,10 @@ Tips:
 - Try creating loops for every instrument you'd like to be in your "band" (ex. drums, rhythm, guitar, etc.)
 
 Examples:
--[Sam Aaron practicing live stream](https://youtu.be/kxX6ZEhFlm4) - creator of Sonic Pi practicing
--[Rai - "Push"](https://youtu.be/BT-NBqVBIQE) - uses Sonic Pi as an accompaniment to her singing
--[Earth to Abigail Improvisation](https://youtu.be/0Ueg0nOyXec) - start from scratch session building from a beat
--[Melody Loveless - Live at Babycastles (10/18/19)](https://youtu.be/SCwwbdUpSs8)
+- [Sam Aaron practicing live stream](https://youtu.be/kxX6ZEhFlm4) - creator of Sonic Pi practicing
+- [Rai - "Push"](https://youtu.be/BT-NBqVBIQE) - uses Sonic Pi as an accompaniment to her singing
+- [Earth to Abigail Improvisation](https://youtu.be/0Ueg0nOyXec) - start from scratch session building from a beat
+- [Melody Loveless - Live at Babycastles (10/18/19)](https://youtu.be/SCwwbdUpSs8)
 
 ### 2. Ambient/Soundscape
 
@@ -56,3 +56,6 @@ Useful Ingredients:
 - ring / tick
 - sleep
 - rate
+
+Examples:
+- [Codie at PS NY 4/20/18](https://vimeo.com/308996093) 
