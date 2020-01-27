@@ -43,6 +43,9 @@ Useful Ingredients:
 - rate
 - choose
 
+Examples:
+- [Raw Live Coding](https://youtu.be/67ccVFodsrk) - can see Sonic Pi code around 30 seconds in
+
 ### 3. Process Music 
 
 Instructions: Create a song/piece based on a process.
