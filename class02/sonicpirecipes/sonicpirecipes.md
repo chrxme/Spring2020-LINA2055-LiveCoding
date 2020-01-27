@@ -1,6 +1,7 @@
 ## Sonic Pi Recipes
-There are many ways of making music. Here are a few ways to explore how to do so using Sonic Pi.</br>
-Instructions: Explore each prompt by coding with musical goals in mind while using all of the required ingredients. Use a combination of ingredients to create your piece. If you need more help making decisions, try listening/looking to an example and break down the events happening within it.
+There are many ways of making music. Here are a few ways to explore how to do so using Sonic Pi.
+
+<b>Instructions:</b> Explore each prompt by coding with musical goals in mind while using all of the required ingredients. Use a combination of ingredients to create your piece. If you need more help making decisions, try listening/looking to an example and break down the events happening within it.
 
 Required Ingredients:
 - At least four (4) commands
@@ -62,11 +63,12 @@ Useful Ingredients:
 - rate
 
 #### Process Music
-"Clapping Music" by Steve Reich
-- Live Musician Version w/ So Percussion - https://youtu.be/I1y_oWgIkgE
-- Sonic Pi Version - https://youtu.be/iJGb8chJHIE
-"Piano Phase" by Steve Reich
-- Youtube/Note Visualization - https://youtu.be/57TuvksMR70
+["Clapping Music" by Steve Reich](https://en.wikipedia.org/wiki/Clapping_Music)
+- [Live Musician Version w/ So Percussion](https://youtu.be/I1y_oWgIkgE)
+- [Sonic Pi Version](https://youtu.be/iJGb8chJHIE)
+
+["Piano Phase" by Steve Reich](https://en.wikipedia.org/wiki/Piano_Phase)
+- [Youtube/Note Visualization](https://youtu.be/57TuvksMR70)
 - Sonic Pi Version - Look at "Reich Phase" under the "Examples" section in the Sonic Pi Reference
 
 Examples:
