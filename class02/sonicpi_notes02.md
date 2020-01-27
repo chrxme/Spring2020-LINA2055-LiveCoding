@@ -1,14 +1,14 @@
 # Class 02 - Notes (pt.2)
 
 ## Syncing and Cuing
-When working with multiple threads, it's easy for threads to become out of time with each other
+When working with multiple threads, it's easy for threads to become out of time with each other.</br>
 Sonic Pi provides a solution to this problem with the functions cue and sync.
 
-Cue allows us to send out "heartbeat" messages to all other threads.
-It functions like a conductor, "cueing" other threads/sequences to start.
+Cue allows us to send out "heartbeat" messages to all other threads.</br>
+It functions like a conductor, "cueing" other threads/sequences to start.</br>
 Threads that are "synced" to a "cue" will run their function on command then wait until it receives another cue.
 
-You must give a name to your cue. You can give it whatever name you want.
+You must give a unique name to your cue. In other words, you cannot run two live_loops with the same name at the same time.
 
 Example 1
 ```
