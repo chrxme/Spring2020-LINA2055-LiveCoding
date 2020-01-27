@@ -8,7 +8,7 @@ Cue allows us to send out "heartbeat" messages to all other threads.</br>
 It functions like a conductor, "cueing" other threads/sequences to start.</br>
 Threads that are "synced" to a "cue" will run their function on command then wait until it receives another cue.
 
-You must give a unique name to your cue. In other words, you cannot run two live_loops with the same name at the same time.
+You must give a unique name to your cue. 
 
 Example 1
 ```
