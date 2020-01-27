@@ -1,6 +1,6 @@
 # Class 02 - Notes (pt.3)
 
-## Working with randomness
+## Working with randomness / lists
 
 Working with random input can add variety and interest to your set.
 
@@ -37,9 +37,48 @@ live_loop :one do
   sleep 0.25
 end
 
+live_loop :two do
+  sample :drum_cymbal_closed
+  sleep [0.25, 0.5].choose
+end
+```
+We can also define our our own lists for Sonic Pi to choose from using variables
+
+Example 1
+```
+live_loop :one do
+  
+  notes = (scale :f2, :egyptian, num_octaves: 2) #declaring list here
+  use_synth :tb303
+  play notes.choose, release: 0.3, cutoff: rrand(60, 120)
+  sleep 0.25
+end
 
 live_loop :two do
   sample :drum_cymbal_closed
   sleep [0.25, 0.5].choose
+end
+```
+Example 2
+```
+notes = [60, 61, 64, 65, 67, 68, 70, 72]
+#C Major Phyrigan Scale - popular in music from the Middle East and South Asia
+
+live_loop :one do
+  cue :beat
+  use_synth :tri
+  play notes.choose
+  sleep 1
+  play notes.choose
+  sleep 1
+end
+
+live_loop :two do
+  sync :beat
+  use_synth :blade
+  2.times do
+    play notes.choose + 12
+    sleep 0.5
+  end
 end
 ```
