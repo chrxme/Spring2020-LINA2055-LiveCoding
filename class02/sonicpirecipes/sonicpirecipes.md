@@ -25,6 +25,7 @@ Examples:
 - [Sam Aaron practicing live stream](https://youtu.be/kxX6ZEhFlm4) - creator of Sonic Pi practicing
 - [Rai - "Push"](https://youtu.be/BT-NBqVBIQE) - uses Sonic Pi as an accompaniment to her singing
 - [Earth to Abigail Improvisation](https://youtu.be/0Ueg0nOyXec) - start from scratch session building from a beat
+- [Daft Punk - Aerodynamic (cover)](https://youtu.be/cydH_JAgSfg)
 - [Melody Loveless - Live at Babycastles (10/18/19)](https://youtu.be/SCwwbdUpSs8)
 
 ### 2. Ambient/Soundscape
