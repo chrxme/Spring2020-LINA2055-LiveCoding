@@ -18,8 +18,8 @@ Useful Ingredients:
 Tips:
 - Use “cue” and “sync” to line up your loops (live_loop)
 - See <a href="https://sonic-pi.net/tutorial.html#section-9-3">Tutorial 9.3</a> to read more about syncing live loops
-- If you don't know where to start, listen to a song you like and copy the process that you hear. 
--- Drum beat happens 4 times, then the synth comes in to play chords, etc.
+- If you don't know where to start, listen to a song you like and copy the process that you hear. (ex. Drum beat happens 4 times, then the synth comes in to play chords, etc.)
+- Try creating loops for every instrument you'd like to be in your "band" (ex. drums, rhythm, guitar, etc.)
 
 ### 2. Ambient/Soundscape
 
