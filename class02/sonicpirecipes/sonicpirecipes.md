@@ -44,14 +44,9 @@ Instructions: Create a song/piece based on a process.
 Examples of Processes:
 - Slow to Fast and/or Fast to Slow
 - High to Low and/or Low to High
-- Happy to Angry and/or Sad to Angry
+- Happy to Angry and/or Sad to Angry 
 
 Useful Ingredients:
 - ring / tick
 - sleep
 - rate
-
-Tips:
-Slow to Fast:
-- Change the value of sleep from larger to smaller numbers
-- Change the rate of the sample from a smaller number to a larger number
