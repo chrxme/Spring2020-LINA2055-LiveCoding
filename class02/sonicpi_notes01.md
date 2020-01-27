@@ -42,8 +42,16 @@ sleep 1
 
 #### Using Note Names
 Note: does not require sleep. See <a href="https://sonic-pi.net/tutorial.html#section-8-2" target="_blank">Section 8.2</a> for more details.
+Example 1
 ```
-play_pattern_timed chord(:E3, :m7), 0.25
+play :C3
+play :E3
+play :G3
+
+```
+Sonic Pi also has built in chords for you to access. See <a href="https://sonic-pi.net/tutorial.html#section-8-2" target="_blank">Section 8.2</a> for more details.
+```
+play chord(:C3, :major)
 
 ```
 
