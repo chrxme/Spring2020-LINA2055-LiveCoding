@@ -26,8 +26,8 @@ In the example below, we are saying to play random integers between 60 through 7
   sleep 0.25
 end
 ```
-### choose
-Choose chooses a random value from a list.
+### choose 
+Choose chooses a random value from a list (also known as an array).
 
 In this example below, in live_loop :one, Sonic Pi chooses a pitch belonging to an eminor chord with a range of two octaves. In live_loop :two, the loop is choosing between "sleeping" for 0.25 and 0.5 beats.
 ```
@@ -80,5 +80,24 @@ live_loop :two do
     play notes.choose + 12
     sleep 0.5
   end
+end
+```
+
+### lists - using tick/creating rings
+In Sonic Pi, you can create rings - which is a list that we cycle through.
+Here is an example of a ring cycle through different synthesizers everytime the loop restarts.
+```
+live_loop :one do
+  use_synth (ring :blade, :tri, :prophet, :pretty_bell).tick
+  play rrand_i(60, 72)
+  sleep 0.5
+end
+```
+If you are working with one more than one ring in a live_loop, you'll need to give each ring it's own unique name.
+```
+live_loop :one do
+  use_synth (ring :blade, :tri, :prophet, :pretty_bell).tick(:a)
+  play rrand_i(60, 72)
+  sleep (ring 0.25, 0.25, 0.5).tick(:b)
 end
 ```
