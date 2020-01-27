@@ -1,6 +1,6 @@
 ## Sonic Pi Recipes
 There are many ways of making music. Here are a few ways to explore how to do so using Sonic Pi.</br>
-Instructions: Explore each prompt by coding with musical goals in mind while using all of the required ingredients. Use a combination of ingredients to create your piece. If you need more help making decisions, try listening to an example and break down the events happening within it.
+Instructions: Explore each prompt by coding with musical goals in mind while using all of the required ingredients. Use a combination of ingredients to create your piece. If you need more help making decisions, try listening/looking to an example and break down the events happening within it.
 
 Required Ingredients:
 - At least four (4) commands
@@ -20,6 +20,12 @@ Tips:
 - See <a href="https://sonic-pi.net/tutorial.html#section-9-3">Tutorial 9.3</a> to read more about syncing live loops
 - If you don't know where to start, listen to a song you like and copy the process that you hear. (ex. Drum beat happens 4 times, then the synth comes in to play chords, etc.)
 - Try creating loops for every instrument you'd like to be in your "band" (ex. drums, rhythm, guitar, etc.)
+
+Examples:
+[Sam Aaron practicing live stream](https://youtu.be/kxX6ZEhFlm4) - creator of Sonic Pi practicing
+[Rai - "Push"](https://youtu.be/BT-NBqVBIQE) - uses Sonic Pi as an accompaniment to her singing
+[Earth to Abigail Improvisation](https://youtu.be/0Ueg0nOyXec) - start from scratch session building from a beat
+[Melody Loveless - Live at Babycastles (10/18/19)](https://youtu.be/SCwwbdUpSs8)
 
 ### 2. Ambient/Soundscape
 
