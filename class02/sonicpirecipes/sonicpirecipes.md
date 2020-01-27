@@ -61,5 +61,13 @@ Useful Ingredients:
 - sleep
 - rate
 
+#### Process Music
+"Clapping Music" by Steve Reich
+- Live Musician Version w/ So Percussion - https://youtu.be/I1y_oWgIkgE
+- Sonic Pi Version - https://youtu.be/iJGb8chJHIE
+"Piano Phase" by Steve Reich
+- Youtube/Note Visualization - https://youtu.be/57TuvksMR70
+- Sonic Pi Version - Look at "Reich Phase" under the "Examples" section in the Sonic Pi Reference
+
 Examples:
 - [Codie at PS NY 4/20/18](https://vimeo.com/308996093) 
