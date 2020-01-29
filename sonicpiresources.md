@@ -5,6 +5,7 @@
 [Mehackit - Sonic Pi Tutorials](https://sonic-pi.mehackit.org/)
 
 ## Built-in Scales/Chords
+[Mehackit - Cheat Sheet](https://sonic-pi.mehackit.org/exercises/en/10-cheatsheet/01-cheatsheet.html)</br>
 [Mehackit - Resource for working with keys, chords and scales](https://sonic-pi.mehackit.org/exercises/en/09-keys-chords-and-scales/01-piano.html)</br>
 [List of built-in scales in Sonic Pi](https://www.rubydoc.info/github/samaaron/sonic-pi/SonicPi/Scale)</br>
 [List of built-in chords in Sonic Pi](https://www.rubydoc.info/github/samaaron/sonic-pi/SonicPi/Chord)
