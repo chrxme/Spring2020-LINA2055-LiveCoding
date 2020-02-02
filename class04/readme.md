@@ -1,7 +1,7 @@
 ## Music Making Resources
 
 ### Pitch, Chords, and Scales
-- [Key, Chords, and Scales](https://sonic-pi.mehackit.org/exercises/en/09-keys-chords-and-scales/01-piano.html)
+- [Mehackit - Key, Chords, and Scales](https://sonic-pi.mehackit.org/exercises/en/09-keys-chords-and-scales/01-piano.html)
 - [Learning Music - Explore Pitch](https://learningmusic.ableton.com/notes-and-scales/notes-and-scales.html)
 - [Learning Music - Major Scales](https://learningmusic.ableton.com/notes-and-scales/keys-and-scales.html)
 - [Learning Music - Minor Scales](https://learningmusic.ableton.com/notes-and-scales/minor-scales.html)
@@ -15,7 +15,7 @@
 Song Exploder
 
 ### Sonic Pi: Templates/Cheatsheets
-- [Mehackit Templates](https://sonic-pi.mehackit.org/exercises/en/11-templates/01-examples.html)
+- [Mehackit - Templates](https://sonic-pi.mehackit.org/exercises/en/11-templates/01-examples.html)
 - [Mehackit - Cheat Sheet](https://sonic-pi.mehackit.org/exercises/en/10-cheatsheet/01-cheatsheet.html)
 
 ### Sonic Pi: Built-in Scales/Chords
