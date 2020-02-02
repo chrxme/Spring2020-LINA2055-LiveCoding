@@ -23,6 +23,8 @@
 ### Song Structures and more
 - [Learning Music - Song Structure (ch.1-5)](https://learningmusic.ableton.com/song-structure/song-structure.html)
 - [Learning Music - Advanced Topics](https://learningmusic.ableton.com/advanced-topics/advanced-topics.html)
+- [32 Bar Form](https://en.wikipedia.org/wiki/Thirty-two-bar_form)
+- [AABA Form](https://en.wikipedia.org/wiki/Song_structure#AABA_form)
 
 ### Sonic Pi Templates/Cheatsheets
 - [Mehackit - Templates](https://sonic-pi.mehackit.org/exercises/en/11-templates/01-examples.html)
