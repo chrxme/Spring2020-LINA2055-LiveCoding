@@ -20,8 +20,9 @@
 - [Mehackit - Bass Track](https://sonic-pi.mehackit.org/exercises/en/02-make-a-song/03-bass-track.html)
 - [Learning Music - Basslines](https://learningmusic.ableton.com/make-basslines/make-basslines.html)
 
-### Song Structures
+### Song Structures and more
 - [Learning Music - Song Structure (ch.1-5)](https://learningmusic.ableton.com/song-structure/song-structure.html)
+- [Learning Music - Advanced Topics](https://learningmusic.ableton.com/advanced-topics/advanced-topics.html)
 
 ### Sonic Pi Templates/Cheatsheets
 - [Mehackit - Templates](https://sonic-pi.mehackit.org/exercises/en/11-templates/01-examples.html)
