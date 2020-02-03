@@ -8,7 +8,7 @@
 - [Learning Music - Major Scales](https://learningmusic.ableton.com/notes-and-scales/keys-and-scales.html)
 - [Learning Music - Minor Scales](https://learningmusic.ableton.com/notes-and-scales/minor-scales.html)
 
-## Rhythm, Tempo, and Drums
+### Rhythm, Tempo, and Drums
 - [Mehackit - Drum beat](https://sonic-pi.mehackit.org/exercises/en/02-make-a-song/02-drum-beat.html)
 - [Learning Music - Beat and Tempo](https://learningmusic.ableton.com/make-beats/beat-and-tempo.html)
 - [Learning Music - Tempo and Genre](https://learningmusic.ableton.com/make-beats/tempo-and-genre.html)
