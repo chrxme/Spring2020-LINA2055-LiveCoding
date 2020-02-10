@@ -13,4 +13,6 @@ Step Three: [Start TidalCycles inside your Text editor](https://tidalcycles.org/
 - I recommend using [Atom](https://atom.io/). It's free to download online. If you did the easy installation, you should already have Atom installed. If you are using Atom, you will also [need the TidalCycles plug-in installed on Atom](https://tidalcycles.org/index.php/MacOS_installation#Install_Atom_Extension).
 - Here are [instructions for using Atom with TidalCycles](https://tidalcycles.org/index.php/Start_tidalcycles_and_superdirt_for_the_first_time#Instructions_for_Atom)
 
+Step Four: [Test for sound using some code](https://tidalcycles.org/index.php/Start_tidalcycles_and_superdirt_for_the_first_time#Start_TidalCycles_inside_your_text_editor)
 
+If you're getting sound, congratulations! You're ready for the [TidalCycles Tutorial](https://tidalcycles.org/index.php/Tutorial)
