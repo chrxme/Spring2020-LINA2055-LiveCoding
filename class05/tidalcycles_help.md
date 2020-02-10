@@ -1,4 +1,4 @@
-### Installing TidalCycles
+### Installing/Getting Started with TidalCycles
 
 Step One: [Pick a way to install TidalCycles depending on your machine](https://tidalcycles.org/index.php/Installation)
 - I recommend the "easy" modes
