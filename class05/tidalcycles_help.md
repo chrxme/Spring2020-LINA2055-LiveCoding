@@ -1,6 +1,7 @@
 ### Installing/Getting Started with TidalCycles
 
-Step One: [Pick a way to install TidalCycles depending on your machine](https://tidalcycles.org/index.php/Installation)
+Step One: [Pick a way to install TidalCycles](https://tidalcycles.org/index.php/Installation)
+- Which installation method you will pick will depend on your machine
 - I recommend the "easy" modes
 
 Step Two: [Start SuperDirt inside SuperCollider](https://tidalcycles.org/index.php/Start_tidalcycles_and_superdirt_for_the_first_time)
