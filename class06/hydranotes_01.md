@@ -15,7 +15,7 @@ When live coding in Hydra, you will first need to generate some source material 
 Here are a few functions to get you started.
 
 #### [osc](https://github.com/ojack/hydra/blob/master/docs/funcs.md#osc)
-Based off of oscillators found in analog video synthesizers, this function takes values and outputs a visualization of corresponding oscillations. [Here's an example of a video oscillator in action](https://youtu.be/RipbiF4EGsI).
+Based off of oscillators found in analog [video synthesizers](https://youtu.be/RipbiF4EGsI), this function takes values and outputs a visualization of corresponding oscillations.
 ```
 // oscillator
 // osc(frequency, sync, offset)
@@ -37,8 +37,51 @@ osc(2, 0.5, 1).out() // slow oscillation with seperated colors
 ```
 
 #### [shape](https://github.com/ojack/hydra/blob/master/docs/funcs.md#shape)
+Outputs a shape.
+```
+// shape
+// shape(sides, radius, smoothing)
+// sides - # of sides on shape
+// radius - size of shape
+// smoothing - blurs and stretches edges
 
-#### solid
+shape(3).out() // triangle
+
+shape(4).out() // square
+
+shape(50).out() // circle - has so many "sides" that it's a smooth line
+
+shape(3, 0.5).out() // larger triangle
+
+shape(3, 0.1, 0.1).out() // smaller blurry triangle
+```
+#### [solid](https://github.com/ojack/hydra/blob/master/docs/funcs.md#noise)
+Outputs a solid color. 
+```
+// solid
+// solid(r, g, b, a)
+// red - red
+// green - green
+// blue - blue
+// alpha - alpha
+
+solid(1,0,0).out() // pure red
+
+solid(0,1,0).out() // pure green
+
+solid(0,0,1).out() // pure blue
+
+solid(0.5,0,0).out() // like a red light at half brightness
+
+solid(1,0,1).out() // red light + blue light = fuschia
+
+solid(1,1,0).out() // red light + green light = yellow
+```
+![A representation of additive color mixing - Wikipedia](https://upload.wikimedia.org/wikipedia/commons/2/28/RGB_illumination.jpg)
+> [A representation of additive color mixing - Wikipedia](https://en.wikipedia.org/wiki/RGB_color_model) 
+#### [voronoi](https://github.com/ojack/hydra/blob/master/docs/funcs.md#voronoi)
+Generates voronoi shapes
+
 
 ## Effects
 
