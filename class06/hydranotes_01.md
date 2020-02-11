@@ -77,6 +77,7 @@ solid(1,0,1).out() // red light + blue light = fuschia
 
 solid(1,1,0).out() // red light + green light = yellow
 ```
+Tip: Remember, since you're working with a screen, you're mixing with pixels and light.
 ![A representation of additive color mixing - Wikipedia](https://upload.wikimedia.org/wikipedia/commons/2/28/RGB_illumination.jpg)
 > [A representation of additive color mixing - Wikipedia](https://en.wikipedia.org/wiki/RGB_color_model) 
 #### [voronoi](https://github.com/ojack/hydra/blob/master/docs/funcs.md#voronoi)
