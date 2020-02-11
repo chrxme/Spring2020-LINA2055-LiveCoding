@@ -67,9 +67,11 @@ shape(4).scrollY(0, -0.5).out() // fast and down
 // pixelate - pixelates an image with segements
 // .pixelate(x,y)
 
-osc(10).pixelate(20).out()
+gradient(1).pixelate(3,1).out() // pixelates into 3 columns
 
-noise(1).pixelate(30).out()
+osc(10).pixelate(20).out() // pixelates - 20 x 20
+
+noise(1).pixelate(30).out() // pixelates - 30 x 30
 ```
 #### [kaleid](https://github.com/ojack/hydra/blob/master/docs/funcs.md#kaleid)
 ```
