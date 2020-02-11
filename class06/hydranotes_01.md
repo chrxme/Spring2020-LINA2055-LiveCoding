@@ -55,7 +55,7 @@ shape(3, 0.5).out() // larger triangle
 
 shape(3, 0.1, 0.1).out() // smaller blurry triangle
 ```
-#### [solid](https://github.com/ojack/hydra/blob/master/docs/funcs.md#noise)
+#### [solid](https://github.com/ojack/hydra/blob/master/docs/funcs.md#solid)
 Outputs a solid color. 
 ```
 // solid
@@ -80,20 +80,44 @@ solid(1,1,0).out() // red light + green light = yellow
 Tip: Remember, since you're working with a screen, you're mixing with pixels and light.
 ![A representation of additive color mixing - Wikipedia](https://upload.wikimedia.org/wikipedia/commons/2/28/RGB_illumination.jpg)
 > [A representation of additive color mixing - Wikipedia](https://en.wikipedia.org/wiki/RGB_color_model) 
+#### [gradient](https://github.com/ojack/hydra/blob/master/docs/funcs.md#gradient)
+Outputs a gradient. 
+```
+// gradient
+// gradient(speed)
+
+gradient(0.1).out() // slow gradient
+
+gradient(2).out() // faster gradient
+
+gradient(0).out() // frozen gradient
+```
+#### [noise](https://github.com/ojack/hydra/blob/master/docs/funcs.md#noise)
+Outputs noise. 
+```
+// noise
+// noise(scale, offset)
+
+noise(1).out() // big blurry noise
+
+noise(40, 0).out() // like a composition notebook
+
+noise(40,50).out() // like static
+```
 #### [voronoi](https://github.com/ojack/hydra/blob/master/docs/funcs.md#voronoi)
 Generates voronoi shapes
+```
+// voronoi
+// voronoi(scale, speed, blending)
+// For more information, visit - https://en.wikipedia.org/wiki/Voronoi_diagram
 
+voronoi(1).out()
 
-## Effects
+voronoi(20).out() // zoomed out
 
-### Geometry/Movement
+voronoi(1, 0).out() // zoomed in, not moving
 
-#### kaleid
-#### repeat
-#### scale
-#### rotate
-#### scrollX
-#### scrollY
-#### pixelate
+voronoi(20, 0.7).out() // zoomed out
 
-For a full list of sources, see the [official Hydra documentation](https://github.com/ojack/hydra/blob/master/docs/funcs.md#geometry).
+voronoi(20, 0.7, 10).out() // reveals more points, looks like dust
+```
