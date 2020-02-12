@@ -105,7 +105,7 @@ noise(40, 0).out() // like a composition notebook
 noise(40,50).out() // like static
 ```
 #### [voronoi](https://github.com/ojack/hydra/blob/master/docs/funcs.md#voronoi)
-Generates voronoi shapes
+Generates [voronoi shapes](https://en.wikipedia.org/wiki/Voronoi_diagram)
 ```
 // voronoi
 // voronoi(scale, speed, blending)
