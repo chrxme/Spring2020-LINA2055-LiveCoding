@@ -18,7 +18,7 @@ noise(21).color(0,1,0).out() // green goo
 shape(3).invert([0,1].fast(0.5)).out()
 
 shape(3).invert([0,1].fast(0.5))
-  .color(0,1,0) // color is applied only to white parts
+  .color(0,1,0) // color only appears on the white parts
   .out()
 ```
 #### [blend](https://github.com/ojack/hydra/blob/master/docs/funcs.md#blend)
