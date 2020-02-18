@@ -1,1 +1,1 @@
-Hydra - Class pt.2
+Notes for lesson on Hydra (2/19/20)
